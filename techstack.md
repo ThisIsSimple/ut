@@ -3,15 +3,15 @@
 ## Tech Stack
 ThisIsSimple/ut is built on the following main stack:
 
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
@@ -22,15 +22,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ThisIsSimple/ut is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ThisIsSimple/ut](https://github.com/ThisIsSimple/ut)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|20<br/>Tools used|01/05/24 <br/>Report generated|
+|20<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
