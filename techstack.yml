@@ -2,7 +2,7 @@ repo_name: ThisIsSimple/ut
 report_id: 298ce2895d7454f7f88cc0a90f463bff
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:30:02+00:00'
+timestamp: '2024-02-29T18:57:19+00:00'
 requested_by: ThisIsSimple
 provider: github
 branch: main
@@ -63,7 +63,7 @@ tools:
   last_updated_by: 전윤민
   last_updated_on: 2023-11-07 11:31:53.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 14.0.1
   open_source: true
